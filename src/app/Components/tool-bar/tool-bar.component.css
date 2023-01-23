@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+.banner{
+    
+    text-align: center;
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fyGq74vYPKTuMtKgaGt6nkuEAgVZEOlrJQ&usqp=CAU); */
+    background-repeat: no-repeat;
+    min-height: 250px;
+    margin-top: 20px;
+    background-color: #99ccff;
+}
+label{
+    margin: 10px;
+    font-size: 25px;
+}
+

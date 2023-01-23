@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tool Bar</title>
+</head>
+
+<body>
+    <div class="container">
+        <mat-toolbar color="primary">
+            <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+                <mat-icon>menu</mat-icon>
+            </button>
+            <span>My App</span>
+            <span class="example-spacer"></span>
+            <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+                <mat-icon>favorite</mat-icon>
+            </button>
+            <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+                <mat-icon>share</mat-icon>
+            </button>
+        </mat-toolbar>
+
+    </div>
+    <div class=" container banner">
+        <div>
+          <h1 style="padding: 10px;">Welcome to the vijay trip</h1>
+        
+          <label for="from">From</label>
+         <input type="text" id="from" size="30"> 
+         <label for="to">To</label>
+         <input type="text" id="to">
+         <label for="Date">Date</label>
+         <input type="date" id="Date" ><br>
+         <button mat-raised-button color="primary" style="margin-top: 20px;"><a routerLink="/busdeatils">Submit</a></button>
+
+
+       
+        </div>    
+        <div>
+            
+        </div>
+      </div>
+
+
+</body>
+
+</html>
