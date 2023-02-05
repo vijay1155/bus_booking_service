@@ -1,24 +1,36 @@
-<div class="container-fluid " ><mat-card class="buscard">
-    <mat-card-content>
-            <label for="busname">Shivshahi</label>
+<mat-card><h2 style="background-color:paleturquoise ; text-align: center;color: rgb(27, 45, 61); margin-top: 10px;">Make a Trip With This Buses </h2></mat-card>
+<!-- <div class="container-fluid " *ngFor="let i of  details" style="margin-top: 30px;"> -->
+    <div class="container-fluid " *ngFor="let i of  details" style="margin-top: 30px;">
 
-        </mat-card-content>
+    <div *ngIf="i.from == from && i.to==to" class="container buscard">
+      
+        <mat-card>
+           
+            <mat-card-content>
+                <label for="busId"><strong>bus no :</strong>{{i.busId}}</label><br>
+                <label for="busname"><strong>bus name :</strong>{{i.busName}}</label>
 
-        <mat-card-content>
-            <label for="from">From : Pune</label>
-            <label for="to"> To : kolhapur</label> 
-            <label for="Date"> Date: 20 feb 2023</label>
-        </mat-card-content>
-        <mat-card-content>
-            <label for="time">4:00 pm</label>
-        </mat-card-content>
-        <mat-card-content>
-            <button mat-raised-button color="primary" style="margin-top: 20px;">Select seat</button>
+            </mat-card-content>
+
+            <mat-card-content>
+                <label for="from"><strong>from :</strong> {{i.from}}</label><br>
+                <label for="to"> <strong>To :</strong> {{i.to}}</label>
+
+            </mat-card-content>
+            <mat-card-content>
+                <label for="time"><strong>time :</strong>{{i.time}}</label>
+            </mat-card-content>
+           
             
-        </mat-card-content>
-
-    </mat-card>
-
-    <mat-divider style="margin: 5px;"></mat-divider>
-
+            <mat-card-content>
+                <button (click)="getbusid(i.busId, i.time)" mat-raised-button color="warn" style="margin-top: 20px;"><a 
+                        style="color:aliceblue" >Select seat</a></button>
+            </mat-card-content>
+           
+        </mat-card>
+        
+    </div> 
+       
 </div>
+
+

@@ -1,0 +1,3103 @@
+
+{
+    "date": "30/01/2023",
+    "buses": [
+        {
+            "busId": "1",
+            "busName": "shivshahi",
+            "from": "pune",
+            "to": "kolhapur",
+            "time": "10:00 am",
+            "seat": 
+                                                [
+                                        [
+                                        {
+                                        "booked": true,
+                                        "gender": "male",
+                                        "name": "vijay",
+                                        "number": "1",
+                                        "selected": false
+                                        },
+                                        {
+                                        "booked": false,
+                                        "gender": "",
+                                        "name": "",
+                                        "number": "2",
+                                        "selected": false
+                                        },
+                                        {
+                                        "booked": false,
+                                        "gender": "",
+                                        "name": "",
+                                        "number": "3",
+                                        "selected": false
+                                        },
+                                        {
+                                        "booked": false,
+                                        "gender": "",
+                                        "name": "",
+                                        "number": "4",
+                                        "selected": false
+                                        },
+                                        {
+                                        "booked": false,
+                                        "gender": "",
+                                        "name": "",
+                                        "number": "5",
+                                        "selected": false
+                                        }
+                                        ],
+                                        [
+                                        {
+                                        "booked": true,
+                                        "gender": "male",
+                                        "name": "vijay",
+                                        "number": "6",
+                                        "selected": false
+                                        },
+                                        {
+                                        "booked": false,
+                                        "gender": "",
+                                        "name": "",
+                                        "number": "7",
+                                        "selected": false
+                                        },
+                                        {
+                                        "booked": false,
+                                        "gender": "",
+                                        "name": "",
+                                        "number": "8",
+                                        "selected": false
+                                        },
+                                        {
+                                        "booked": true,
+                                        "gender": "male",
+                                        "name": "vikcky",
+                                        "number": "9",
+                                        "selected": false
+                                        },
+                                        {
+                                        "booked": true,
+                                        "gender": "",
+                                        "name": "",
+                                        "number": "10",
+                                        "selected": false
+                                        }
+                                        ]
+                                    ]
+                
+            
+        },
+        {
+            "busId": "2",
+            "busName": "shivshahi",
+            "from": "pune",
+            "to": "kolhapur",
+            "time": "2:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+            
+            
+        },
+        {
+            "busId": "3",
+            "busName": "shivshahi",
+            "from": "pune",
+            "to": "kolhapur",
+            "time": "6:00 pm",
+            "seat": 
+              [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "4",
+            "busName": "nakoda",
+            "from": "pune",
+            "to": "nashik",
+            "time": "10:00 am",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "5",
+            "busName": "nakoda",
+            "from": "pune",
+            "to": "nashik",
+            "time": "2:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "6",
+            "busName": "nakoda",
+            "from": "pune",
+            "to": "nashik",
+            "time": "6:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]                
+            
+        },
+        {
+            "busId": "7",
+            "busName": "shivneri",
+            "from": "pune",
+            "to": "solapur",
+            "time": "10:00 am",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "8",
+            "busName": "shivneri",
+            "from": "pune",
+            "to": "solapur",
+            "time": "2:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "9",
+            "busName": "shivneri",
+            "from": "pune",
+            "to": "solapur",
+            "time": "6:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]                
+            
+        },
+       
+        {
+            "busId": "10",
+            "busName": "hirkani",
+            "from": "kolhapur",
+            "to": "solapur",
+            "time": "10:00 am",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "11",
+            "busName": "hirkani",
+            "from": "kolhapur",
+            "to": "solapur",
+            "time": "2:00 pm",
+            "seat": 
+              [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "12",
+            "busName": "hirkani",
+            "from": "kolhapur",
+            "to": "solapur",
+            "time": "6:00 pm",
+            "seat":
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+               
+            
+        },
+        {
+            "busId": "13",
+            "busName": "konduskar",
+            "from": "kolhapur",
+            "to": "nashik",
+            "time": "10:00 am",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "14",
+            "busName": "konduskar",
+            "from": "kolhapur",
+            "to": "nashik",
+            "time": "2:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "15",
+            "busName": "konduskar",
+            "from": "kolhapur",
+            "to": "nashik",
+            "time": "6:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "16",
+            "busName": "shefali",
+            "from": "kolhapur",
+            "to": "pune",
+            "time": "10:00 am",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "17",
+            "busName": "shefali",
+            "from": "kolhapur",
+            "to": "pune",
+            "time": "2:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "18",
+            "busName": "shefali",
+            "from": "kolhapur",
+            "to": "pune",
+            "time": "6:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "19",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "kolhapur",
+            "time": "10:00 am",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "20",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "kolhapur",
+            "time": "2:00 pm",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]              
+        
+        },
+        {
+            "busId": "21",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "kolhapur",
+            "time": "6:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "22",
+            "busName": "nakoda",
+            "from": "nashik",
+            "to": "pune",
+            "time": "10:00 am",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "23",
+            "busName": "nakoda",
+            "from": "nashik",
+            "to": "pune",
+            "time": "2:00 pm",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "24",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "pune",
+            "time": "6:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "25",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "solapur",
+            "time": "10:00 am",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "26",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "solapur",
+            "time": "2:00 pm",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+              
+            
+        },
+        {
+            "busId": "27",
+            "busName": "shivneri",
+            "from": "nashik",
+            "to": "solapur",
+            "time": "6:00 pm",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+              
+            
+        },
+        {
+            "busId": "28",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "pune",
+            "time": "10:00 am",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+               
+            
+        },
+        {
+            "busId": "29",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "pune",
+            "time": "2:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+              
+            
+        },
+        {
+            "busId": "30",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "pune",
+            "time": "6:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]                
+                
+                
+            
+        },
+        {
+            "busId": "31",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "kolhapur",
+            "time": "10:00 am",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]               
+            
+        },
+        {
+            "busId": "32",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "kolhapur",
+            "time": "2:00 pm",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "33",
+            "busName": "nakoda",
+            "from": "solapur",
+            "to": "kolhapur",
+            "time": "6:00 pm",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "34",
+            "busName": "nakoda",
+            "from": "solapur",
+            "to": "nashik",
+            "time": "10:00 am",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "35",
+            "busName": "nakoda",
+            "from": "solapur",
+            "to": "nashik",
+            "time": "2:00 pm",
+            "seat": 
+               [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+                
+            
+        },
+        {
+            "busId": "36",
+            "busName": "nakoda",
+            "from": "solapur",
+            "to": "nashik",
+            "time": "6:00 pm",
+            "seat": 
+                [
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "1",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "2",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "3",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "4",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "5",
+      "selected": false
+     }
+    ],
+    [
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vijay",
+      "number": "6",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "7",
+      "selected": false
+     },
+     {
+      "booked": false,
+      "gender": "",
+      "name": "",
+      "number": "8",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "male",
+      "name": "vikcky",
+      "number": "9",
+      "selected": false
+     },
+     {
+      "booked": true,
+      "gender": "",
+      "name": "",
+      "number": "10",
+      "selected": false
+     }
+    ]
+   ]
+              
+            
+        }
+       
+
+
+    ]
+}

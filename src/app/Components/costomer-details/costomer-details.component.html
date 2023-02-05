@@ -1,0 +1,105 @@
+<div>
+    <h2 style="background-color:rgb(220, 246, 246) ; text-align: center;color: rgb(27, 45, 61); margin-top: 10px;">Select Seats</h2>
+    <div  *ngIf=" bookinfSuccsesfull" style="margin-top: 10px;"> 
+        <h3 style="background-color: rgb(255, 187, 127);color: rgb(80, 106, 255); text-align: center;">Your bus {{from}} to {{to}} dated on {{date}} at {{time}} is booked!!!! Have a great journey</h3>
+
+    </div>
+    <mat-card style="background-color: rgb(221, 249, 239); align-items: center;">
+  
+    <mat-card-content> 
+        <label > <u>Bus No:</u>  {{busId}}</label>
+        <label style="margin-left: 90px; "><u> Date:</u> {{date}} (YYYY-MM-DD)</label><br>
+        <label ><u> From : </u> {{from}}</label>
+        <label style="margin-left: 90px;"> <u>  To: </u>{{to}}</label><br>
+        <label><u> Time: </u> {{time}}</label>
+    </mat-card-content>
+</mat-card></div>
+<div style="background-color: rgb(204, 255, 255);margin-top: 10px;">
+        <mat-card class="seatback">
+            <mat-card-content style="margin-top: 10px;">
+                <div class="container p1">
+                    <table style="margin-bottom: 30px;margin-left: 30px; margin-top: 10px;">
+                        <div *ngFor="let row of aseat" class="container">
+                            <tr>
+                                <td class=" seatrow" *ngFor="let seat of row "
+                                    [ngClass]="{'selected': seat.selected, 'booked': seat.booked}"
+                                    (click)="selectSeat(seat)">
+                                    {{ seat.number }} <mat-icon style="transform: rotate(90deg);">chair</mat-icon>
+                                </td>
+                            </tr>
+
+                        </div>
+
+                    </table>
+                </div>
+            </mat-card-content>
+        </mat-card>
+        <div class="container" style="margin-bottom:10px">
+            <mat-card class="seatcard">
+                <mat-card-content>
+                    <div>
+                        <tr>selected seat : <td *ngFor="let selectedSeat of selectedseats"> {{ selectedSeat.number }},</td>
+                        </tr>
+                    </div>
+
+                </mat-card-content>
+                <mat-card-content>
+                    <div>
+                        <tr>Total Price : <td>{{totalPrice}}</td>
+                        </tr>
+
+                    </div>
+                    <div>
+                        <button type="button" mat-raised-button color="warn"
+                            style="margin-top: 20px; margin-left: 20px;" (click)="bookNow()"> Book Seats</button>
+                    </div>
+                </mat-card-content>
+            </mat-card>
+        </div>
+        <div style="background-color: aquamarine; ">
+            <div *ngIf="showSelectedSeats" style="background-color: aquamarine; ">
+                <label for="selectedSeat"
+                    style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; background-color: floralwhite; margin-left: 20px;">Selected
+                    seats:</label>
+                <div *ngFor="let selectedSeat of selectedseats"  >
+                    <mat-card
+                        style="margin-bottom:10px; margin-left: 20px; margin-right: 200px; background-color: antiquewhite;">
+                        <mat-card-content>
+                            <mat-card-content><label for="seatno"style="font-size:15px">Seat No : {{ selectedSeat.number }} </label>
+                                <input matInput [(ngModel)]="selectedSeat.name" type="text"  name = "name"placeholder="Enter name" class="form-control" required minlength="4" #name="ngModel">
+                                <div *ngIf="name.invalid && (name.dirty || name.touched)"
+                                class="alert"> <div *ngIf="name.errors?.['required']">
+                                    Name is required.
+                                  </div>
+                                  <div *ngIf="name.errors?.['minlength']">
+                                    Name must be at least 4 characters long.
+                                  </div>
+                                  <div *ngIf="name.errors?.['forbiddenName']">
+                                    Name cannot be Bob.
+                                  </div>
+                                
+                                </div></mat-card-content>
+                            <mat-card-content > <label for="gender" style="font-size:15px"> Gender:</label>
+                                <select id="gender" [(ngModel)]="selectedSeat.gender" name="gender" class="form-control" required name="gender">
+                                  <option value="">Select gender</option>
+                                  <option value="male">Male</option>
+                                  <option value="female">Female</option>
+                                </select>
+                                <div *ngIf="name.invalid && (name.dirty || name.touched)"
+                                class="alert"> <div *ngIf="name.errors?.['required']">
+                                    Gender  is required.
+                                  </div></div></mat-card-content>
+                           
+                        </mat-card-content>
+                    </mat-card>
+
+                </div>
+                <button type="submit" mat-raised-button color="warn" style="margin-top: 20px; margin-left: 20px;" (click)="  bookked();getSeatsDetails()">
+                    Book Now </button>
+            </div>
+            
+
+
+        </div>      
+       
+</div>

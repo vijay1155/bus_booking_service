@@ -1,17 +1,30 @@
 .example-spacer {
     flex: 1 1 auto;
-  }
+  } 
+
+  /* css for the search division */
 .banner{
     
     text-align: center;
-    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fyGq74vYPKTuMtKgaGt6nkuEAgVZEOlrJQ&usqp=CAU); */
+    
     background-repeat: no-repeat;
     min-height: 250px;
     margin-top: 20px;
-    background-color: #99ccff;
+    background-color: #78ddf6;
 }
 label{
     margin: 10px;
     font-size: 25px;
+}
+.searchcard
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(105, 209, 241)
+}
+.searchtable{
+    margin-right: auto;
+margin-top: 10px;
+margin-left: auto;
+
 }
 

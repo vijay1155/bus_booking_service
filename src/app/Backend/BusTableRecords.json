@@ -1,0 +1,2241 @@
+{
+    "date": "30/01/2023",
+    "buses": [
+        {
+            "busId": "1",
+            "busName": "shivshahi",
+            "from": "pune",
+            "to": "kolhapur",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "2",
+            "busName": "shivshahi",
+            "from": "pune",
+            "to": "kolhapur",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "3",
+            "busName": "shivshahi",
+            "from": "pune",
+            "to": "kolhapur",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "4",
+            "busName": "nakoda",
+            "from": "pune",
+            "to": "nashik",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "5",
+            "busName": "nakoda",
+            "from": "pune",
+            "to": "nashik",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "6",
+            "busName": "nakoda",
+            "from": "pune",
+            "to": "nashik",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "7",
+            "busName": "shivneri",
+            "from": "pune",
+            "to": "solapur",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "8",
+            "busName": "shivneri",
+            "from": "pune",
+            "to": "solapur",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "9",
+            "busName": "shivneri",
+            "from": "pune",
+            "to": "solapur",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+       
+        {
+            "busId": "10",
+            "busName": "hirkani",
+            "from": "kolhapur",
+            "to": "solapur",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "11",
+            "busName": "hirkani",
+            "from": "kolhapur",
+            "to": "solapur",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "12",
+            "busName": "hirkani",
+            "from": "kolhapur",
+            "to": "solapur",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "13",
+            "busName": "konduskar",
+            "from": "kolhapur",
+            "to": "nashik",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "14",
+            "busName": "konduskar",
+            "from": "kolhapur",
+            "to": "nashik",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "15",
+            "busName": "konduskar",
+            "from": "kolhapur",
+            "to": "nashik",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""                                                                
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "16",
+            "busName": "shefali",
+            "from": "kolhapur",
+            "to": "pune",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "17",
+            "busName": "shefali",
+            "from": "kolhapur",
+            "to": "pune",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "18",
+            "busName": "shefali",
+            "from": "kolhapur",
+            "to": "pune",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "19",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "kolhapur",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "20",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "kolhapur",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "21",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "kolhapur",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "22",
+            "busName": "nakoda",
+            "from": "nashik",
+            "to": "pune",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "23",
+            "busName": "nakoda",
+            "from": "nashik",
+            "to": "pune",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "24",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "pune",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "25",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "solapur",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "26",
+            "busName": "shivshahi",
+            "from": "nashik",
+            "to": "solapur",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "27",
+            "busName": "shivneri",
+            "from": "nashik",
+            "to": "solapur",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "28",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "pune",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "29",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "pune",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "30",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "pune",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "31",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "kolhapur",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "32",
+            "busName": "shivneri",
+            "from": "solapur",
+            "to": "kolhapur",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "33",
+            "busName": "nakoda",
+            "from": "solapur",
+            "to": "kolhapur",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "34",
+            "busName": "nakoda",
+            "from": "solapur",
+            "to": "nashik",
+            "time": "10:00 am",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "35",
+            "busName": "nakoda",
+            "from": "solapur",
+            "to": "nashik",
+            "time": "2:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        },
+        {
+            "busId": "36",
+            "busName": "nakoda",
+            "from": "solapur",
+            "to": "nashik",
+            "time": "6:00 pm",
+            "seat": [
+                {
+                    "1": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "2": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "3": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "4": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "5": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "6": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "7": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "8": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "9": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    },
+                    "10": {
+                        "available": "1",
+                        "costomerName": "",
+                        "gender": ""
+                    }
+                }
+                
+            ]
+        }
+       
+
+
+    ]
+}

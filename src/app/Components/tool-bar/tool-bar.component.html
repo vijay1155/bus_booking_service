@@ -8,13 +8,14 @@
     <title>Tool Bar</title>
 </head>
 
-<body>
+<body> 
+    <!-- tool bar  -->
     <div class="container">
         <mat-toolbar color="primary">
             <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
                 <mat-icon>menu</mat-icon>
             </button>
-            <span>My App</span>
+            <span>My Booking App</span>
             <span class="example-spacer"></span>
             <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
                 <mat-icon>favorite</mat-icon>
@@ -24,26 +25,63 @@
             </button>
         </mat-toolbar>
 
-    </div>
+    </div> 
+<!-- division for the taking input of FROM city, TO city and Date  and searching bus detail   -->
     <div class=" container banner">
-        <div>
-          <h1 style="padding: 10px;">Welcome to the vijay trip</h1>
+        <mat-card class="searchcard">
+            <mat-card-content>
+                <h1 style="padding: 10px;">Welcome to the vijay trip</h1>
+
+                <!-- <label for="from">From</label> -->
+                <mat-form-field appearance="fill">
+                    <mat-label>From City</mat-label>
+                    <select matNativeControl required [(ngModel)]="from">
+                        <option value="kolhapur">Kolhapur</option>
+                        <option value="pune">Pune</option>
+                        <option value="nashik">Nashik</option>
+                        <option value="solapur">Solapur</option>
+                    </select>
+                  </mat-form-field>
+                <label for="to">To</label>
+                <mat-form-field appearance="fill">
+                    <mat-label>To City</mat-label>
+                    <select matNativeControl required [(ngModel)]="to">
+                        <option value="kolhapur">Kolhapur</option>
+                        <option value="pune">Pune</option>
+                        <option value="nashik">Nashik</option>
+                        <option value="solapur">Solapur</option>
+                    </select>
+                  </mat-form-field>
+                <label for="Date" >Date</label>
+                <input type="date" [(ngModel)]="date"><br>
+                <!-- this button is for redirecting to busdetails page -->
+                <button mat-raised-button color="accent" style="margin-top: 20px;"  (click)="getdata(); "  >search
+                        </button>
+            </mat-card-content>
+            <mat-card-content> <table class="searchtable">
+                <th>Your Trip </th>
+                <tr><td>From: {{from}}</td></tr>
+                <tr><td >To: {{to}}</td></tr>
+                <tr><td>Date: {{date}}</td></tr>
+            </table></mat-card-content>
+        </mat-card>
+
+            
         
-          <label for="from">From</label>
-         <input type="text" id="from" size="30"> 
-         <label for="to">To</label>
-         <input type="text" id="to">
-         <label for="Date">Date</label>
-         <input type="date" id="Date" ><br>
-         <button mat-raised-button color="primary" style="margin-top: 20px;"><a routerLink="/busdeatils">Submit</a></button>
-
-
        
-        </div>    
-        <div>
-            <div><h1>hello users</h1></div>
+    </div>
+    <div class="parent">
+        <div class="container" *ngIf="ifBusDatailsEntered" style="align-items: left;">
+            <app-busdetail-card >
+                <div class="container"  *ngIf="selectseat">
+                    <app-costomer-details></app-costomer-details>
+                </div>
+            </app-busdetail-card>
         </div>
-      </div>
+       
+
+    </div>
+    
 
 
 </body>
