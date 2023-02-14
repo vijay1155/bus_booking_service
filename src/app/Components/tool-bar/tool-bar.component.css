@@ -10,7 +10,6 @@
     background-repeat: no-repeat;
     min-height: 250px;
     margin-top: 20px;
-    background-color: #78ddf6;
 }
 label{
     margin: 10px;
@@ -19,12 +18,37 @@ label{
 .searchcard
 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:rgb(105, 209, 241)
+    background-image: url('https://img.freepik.com/vecteurs-libre/fond-hexagonal-degrade_23-2148932756.jpg?w=1060&t=st=1675957892~exp=1675958492~hmac=94f92e9a8c7c31f6a3ab3b3dc666083786d534dee5691a596094490e812f1469');
+    background-size: 100% auto;
+
 }
 .searchtable{
     margin-right: auto;
 margin-top: 10px;
 margin-left: auto;
 
+} 
+body{
+    background-image: url('https://www.shutterstock.com/image-vector/abstract-technology-communication-concept-vector-600w-1914443272.jpg');
+    background-size: 100% auto;
 }
+.parent{
+    background-image: url('https://www.shutterstock.com/image-vector/vector-illustration-airplane-sky-airport-600w-1986467651.jpg');
+    background-size: 100% auto;
+
+}
+input[type="date"], textarea {
+
+    background-color : #ffffff; 
+   height:50px;
+   width : 210px;
+   text-align: center;
+   color:black;
+   text-size-adjust:40px ;
+   
+  
+  
+  
+  }
+
 

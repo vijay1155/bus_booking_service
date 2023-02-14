@@ -1,10 +1,10 @@
 <mat-card><h2 style="background-color:paleturquoise ; text-align: center;color: rgb(27, 45, 61); margin-top: 10px;">Make a Trip With This Buses </h2></mat-card>
 <!-- <div class="container-fluid " *ngFor="let i of  details" style="margin-top: 30px;"> -->
-    <div class="container-fluid " *ngFor="let i of  details" style="margin-top: 30px;">
+    <div class="container-fluid " *ngFor="let i of  details">
 
     <div *ngIf="i.from == from && i.to==to" class="container buscard">
       
-        <mat-card>
+        <mat-card style="margin-top:10px">
            
             <mat-card-content>
                 <label for="busId"><strong>bus no :</strong>{{i.busId}}</label><br>

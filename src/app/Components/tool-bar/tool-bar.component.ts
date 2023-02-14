@@ -27,11 +27,8 @@ selectseat=this.busdetailsservice.selectSeatEntered
   {
     this.busdetailsservice.getdate(this.date,this.from,this.to);
     this.ifBusDatailsEntered = true;
-    console.log(this.selectseat)
+   
   } 
-  // goToPage(pagename:string):void{
-  //   this.router.navigate([`${pagename}`])
-  // }
  
 }
 

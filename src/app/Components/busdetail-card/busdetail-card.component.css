@@ -2,8 +2,8 @@
     background-color: #ffcc99;
     margin-bottom: 10px;
     max-width: 450px;
-    /* margin-left: auto;
-    margin-right: auto; */
+     margin-left: auto;
+    margin-right: auto; 
 }
 label{
     text-transform:capitalize;

@@ -21,4 +21,24 @@ label{
   text-transform: capitalize;
   font-size:10px;
 
+} 
+
+.buscard{
+  
+  margin-bottom: 10px;
+  max-width: 450px;
+   margin-left: auto;
+  margin-right: auto; 
+  
+ 
+}
+
+.seatlayout{
+  background-image: url('https://img.freepik.com/vecteurs-libre/fond-hexagonal-degrade_23-2148932756.jpg?w=1060&t=st=1675961713~exp=1675962313~hmac=5ee3e39172a4ae897023b3d1393e5416d7729b5ee3074695b21813141b7748b9');
+  background-size: 100% auto;
+
+
+}
+.seatCard{ 
+  margin-top:10px;
 }

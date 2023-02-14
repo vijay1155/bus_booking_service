@@ -15,7 +15,7 @@
             <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
                 <mat-icon>menu</mat-icon>
             </button>
-            <span>My Booking App</span>
+            <span>My Bus Booking App</span>
             <span class="example-spacer"></span>
             <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
                 <mat-icon>favorite</mat-icon>
@@ -30,7 +30,7 @@
     <div class=" container banner">
         <mat-card class="searchcard">
             <mat-card-content>
-                <h1 style="padding: 10px;">Welcome to the vijay trip</h1>
+                <h1 style="padding: 10px; color:primary">Welcome to the vijay trip</h1>
 
                 <!-- <label for="from">From</label> -->
                 <mat-form-field appearance="fill">
@@ -42,7 +42,7 @@
                         <option value="solapur">Solapur</option>
                     </select>
                   </mat-form-field>
-                <label for="to">To</label>
+                <label  style="color: black;">To</label>
                 <mat-form-field appearance="fill">
                     <mat-label>To City</mat-label>
                     <select matNativeControl required [(ngModel)]="to">
@@ -52,10 +52,11 @@
                         <option value="solapur">Solapur</option>
                     </select>
                   </mat-form-field>
-                <label for="Date" >Date</label>
+                <label  style="color:black;" >Date</label>
                 <input type="date" [(ngModel)]="date"><br>
                 <!-- this button is for redirecting to busdetails page -->
-                <button mat-raised-button color="accent" style="margin-top: 20px;"  (click)="getdata(); "  >search
+                <button mat-raised-button color="accent" style="margin-top: 20px; font-size:20px; color:black; height:50px;
+                width : 210px;"  (click)="getdata(); "  >search
                         </button>
             </mat-card-content>
             <mat-card-content> <table class="searchtable">
@@ -70,13 +71,11 @@
         
        
     </div>
-    <div class="parent">
+    <div class=" container parent " >
         <div class="container" *ngIf="ifBusDatailsEntered" style="align-items: left;">
             <app-busdetail-card >
-                <div class="container"  *ngIf="selectseat">
-                    <app-costomer-details></app-costomer-details>
-                </div>
-            </app-busdetail-card>
+               
+            </app-busdetail-card> 
         </div>
        
 
